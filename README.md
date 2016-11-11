@@ -1,7 +1,7 @@
 ##ATOM + PMD
 
 - Install *Atom* editor with *build* and *linter* plugins
-- Create  *.atom-build.js* file and place it in your project file
+- Create  *.atom-build.js* file and place it in your project folder
 ```javascript
 var PMD_REGEXP = "(?<file>[\\/0-9a-zA-Z\\._]+):(?<line>\\d+):(?<col>\\d+):\\s+(?<message>.+)";
 var PMD_PATH = '~/pmd/pmd-dist/target/pmd-bin-5.5.2-SNAPSHOT/bin';
