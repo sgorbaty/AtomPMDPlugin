@@ -1,4 +1,4 @@
-##ATOM + PMD
+## ATOM + PMD
 
 - Install *Atom* editor with *build* and *linter* plugins
 - Create  *.atom-build.js* file and place it in your project folder
